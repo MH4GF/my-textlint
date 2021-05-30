@@ -11,7 +11,7 @@ echo "alias textlint='$HOME/.ghq/github.com/MH4GF/my-textlint/node_modules/.bin/
 textlint hogehoge.md
 ```
 
-## github actions usage (with reviewdog)
+## github actions usage to start in another repository (with reviewdog)
 
 ```
 name: reviewdog
