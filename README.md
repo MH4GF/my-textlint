@@ -1,5 +1,7 @@
 # my-textlint
 
+my [textlint](https://github.com/textlint/textlint) configulation
+
 ## cli usage
 
 ```
