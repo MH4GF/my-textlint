@@ -1,6 +1,11 @@
 {
   "filters": {},
   "rules": {
-      "preset-ja-technical-writing": true
+      "preset-ja-technical-writing": {
+          "no-exclamation-question-mark": {
+              "allowHalfWidthQuestion": true,
+              "allowFullWidthQuestion": true
+          }
+      }
   }
 }
