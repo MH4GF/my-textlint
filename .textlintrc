@@ -1,11 +1,12 @@
 {
-  "filters": {},
-  "rules": {
-      "preset-ja-technical-writing": {
-          "no-exclamation-question-mark": {
-              "allowHalfWidthQuestion": true,
-              "allowFullWidthQuestion": true
-          }
-      }
-  }
+    "filters": {},
+    "rules": {
+        "preset-jtf-style": true,
+        "preset-ja-technical-writing": {
+            "no-exclamation-question-mark": {
+                "allowHalfWidthQuestion": true,
+                "allowFullWidthQuestion": true
+            }
+        }
+    }
 }
