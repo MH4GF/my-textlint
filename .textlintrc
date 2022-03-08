@@ -6,6 +6,11 @@
             "no-exclamation-question-mark": {
                 "allowHalfWidthQuestion": true,
                 "allowFullWidthQuestion": true
+            },
+            "ja-no-mixed-period": {
+                "allowPeriodMarks": [
+                    "："
+                ]
             }
         }
     }
